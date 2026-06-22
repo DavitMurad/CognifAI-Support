@@ -1,26 +1,32 @@
-# CognifAI Privacy Policy
+# CognifAI Support
 
-Last Updated: June 2026
+Support website and privacy policy for CognifAI.
 
-CognifAI generates educational flashcards using third-party AI services.
+## About
 
-## Information We Process:
+CognifAI is an AI-powered flashcard app designed to help students learn STEM subjects, Computer Science, and Mathematics more efficiently.
 
-* User prompts entered into the app.
-* Generated flashcard content.
-* Basic app usage required for functionality.
+Enter a topic, concept, or question and instantly generate structured flashcards designed for learning and revision.
 
-## How Information Is Used
+## Links
 
-User prompts are sent to our AI provider to generate flashcards and learning materials.
+* Support Website: https://DavitMurad.github.io/CognifAI-Support/
+* Privacy Policy: https://DavitMurad.github.io/CognifAI-Support/privacy.html
 
-## Data Storage
-Generated flashcards are stored locally on the user's device.
+## Features
 
-## Data Sharing
-We do not sell, rent, or share personal information with third parties for marketing purposes.
+* AI-generated flashcards
+* Interactive learning experience
+* Search saved topics
+* Light & Dark Mode
+* Local storage
 
 ## Contact
-For questions regarding this Privacy Policy, please contact:
 
-davit.muradyan.dev@gmail.com
+For support or feedback:
+
+[davit.muradyan.dev@gmail.com](mailto:davit.muradyan.dev@gmail.com)
+
+---
+
+© 2026 Davit Muradyan
