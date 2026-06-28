@@ -9,7 +9,7 @@ CognifAI is an AI-powered flashcard app designed to help students learn STEM sub
 Enter a topic, concept, or question and instantly generate structured flashcards designed for learning and revision.
 
 ## Links
-
+* App Store - https://apps.apple.com/app/cognifai/id6782702184
 * Support Website: https://DavitMurad.github.io/CognifAI-Support/
 * Privacy Policy: https://DavitMurad.github.io/CognifAI-Support/privacy.html
 
